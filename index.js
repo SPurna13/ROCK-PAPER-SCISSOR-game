@@ -60,7 +60,7 @@ function fn(cnt,cnt1)
 {
     if(cnt>cnt1)
     {
-        var e=document.getElementById("third").innerHTML="YOU WIN &#127881";
+        var e=document.getElementById("third").innerHTML="YOU WON &#127881";
     }
     else if(cnt1>cnt)
     {
